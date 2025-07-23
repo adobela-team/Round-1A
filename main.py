@@ -48,6 +48,10 @@ def extract_headings(doc):
         page_num = span["page"]
         bold = span["bold"]
 
+        # Skip empty or invalid heading texts like empty string, quotes, invisible characters, or single characters
+        if not text or text == '""' or text == "''" or text.strip('\u200b') == '' or len(text) == 1:
+            continue
+
         if size in level_map:
             level = level_map[size]
             headings.append({"level": level, "text": text, "page": page_num})

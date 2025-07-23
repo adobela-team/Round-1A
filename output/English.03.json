@@ -1,325 +1,60 @@
 {
-  "title": "Building Self-Discipline: Introduction and",
+  "title": "Augmented Reality",
   "outline": [
     {
       "level": "H1",
-      "text": "Building Self-Discipline: Introduction and",
+      "text": "Augmented Reality",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "Importance",
+      "text": "Integration with Unity",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "The Science and Theory of Self-Discipline",
+      "text": "Project Goals and Objectives",
       "page": 2
     },
     {
       "level": "H1",
-      "text": "Practical Techniques and Exercises to Build Self-",
+      "text": "AR Implementation in",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Discipline",
+      "text": "Unity",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Overcoming Challenges and Maintaining Long-",
-      "page": 4
+      "text": "Project Outcomes and Demos",
+      "page": 5
     },
     {
       "level": "H1",
-      "text": "Term Discipline",
-      "page": 4
+      "text": "Thank You",
+      "page": 6
     },
     {
       "level": "H2",
-      "text": "Ego Depletion",
-      "page": 2
+      "text": "Challenges and Solutions",
+      "page": 4
     },
     {
-      "level": "H2",
-      "text": "Marshmallow Test",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "Start Small",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Routine & Goals",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Push Discomfort",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Track Progress",
+      "level": "H3",
+      "text": "Unity",
       "page": 3
     },
     {
       "level": "H3",
-      "text": "This document explores the fundamental aspects of self-discipline, delving into its definition, paramount",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "importance, scientific underpinnings, practical application techniques, and strategies for overcoming common",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "challenges. Self-discipline, often defined as the capacity to compel oneself to undertake necessary actions",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "irrespective of emotional states, is a cornerstone for achieving long-term aspirations and fostering personal growth.",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Self-discipline, often used interchangeably with self-control or willpower, refers to the deliberate regulation of one's",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "restraint. For instance, resisting temptations or making difficult decisions can exhaust this mental energy, making",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "subsequent acts of self-control more challenging.",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "A classic demonstration of this concept is the renowned Marshmallow Experiment, conducted by Walter Mischel",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "and his colleagues. This study revealed that children who could delay gratification4resisting the immediate",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "metrics, including academic achievement and stress management. This highlights the profound impact of self-",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "discipline on future outcomes.",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Willpower is a limited resource that can be",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "exhausted by resisting temptations and making",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "decisions.",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Delaying gratification predicts future success and",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "better life outcomes.",
-      "page": 2
-    },
-    {
-      "level": "H3",
-      "text": "Cultivating self-discipline is an iterative process that benefits from practical, actionable strategies. One effective",
+      "text": "Android",
       "page": 3
     },
     {
       "level": "H3",
-      "text": "writing just 100 words a day.",
+      "text": "iOS",
       "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Establishing structured routines and setting specific, measurable goals significantly reduces decision fatigue,",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "like strengthening a muscle, builds resilience and willpower. Furthermore, incorporating accountability measures",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "and diligently tracking your progress can provide the necessary motivation to sustain efforts over time,",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "transforming aspirations into tangible achievements.",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Break tasks into tiny, manageable actions to build",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "momentum.",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Create structured routines and set specific goals to",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "reduce decision fatigue.",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Gradually push into discomfort to strengthen your",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "willpower muscle.",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Use accountability and track progress to maintain",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "motivation.",
-      "page": 3
-    },
-    {
-      "level": "H3",
-      "text": "Building and sustaining self-discipline is often fraught with common obstacles such as procrastination, making",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "excuses, flagging motivation, and self-sabotage. Recognising these challenges is the first step towards overcoming",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "from immediate gratification to the profound benefits of long-term rewards.",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Consistency is paramount in forming lasting habits; research suggests that habits typically solidify after",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "approximately 21 days of consistent practice. Embracing this principle means committing to daily actions, even",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "when motivation wanes. As Abraham Lincoln wisely stated,",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "\"Discipline is choosing between what you want now and what you want most.\"",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "This philosophy underscores the essence of true self-discipline: a continuous, deliberate choice for future",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "betterment.",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Acknowledge Excuses:",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Be honest about reasons",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "for avoiding tasks.",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Reframe Mindset:",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Shift focus from immediate",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "desire to long-term gains.",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Focus on Rewards:",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Visualise the benefits of",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "sustained effort.",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Embrace Consistency:",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "Understand that habits",
-      "page": 4
-    },
-    {
-      "level": "H3",
-      "text": "form over time with regular practice.",
-      "page": 4
     }
   ]
 }

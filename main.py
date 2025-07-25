@@ -9,7 +9,7 @@ def extract_title(page):
     for b in blocks:
         for l in b.get("lines", []):
             for s in l["spans"]:
-                if s["size"] > max_size and s["text"].strip():
+                if s["size"] > max_size and s["text"].strip(): 
                     max_size = s["size"]
                     title = s["text"].strip()
     return title
@@ -48,7 +48,7 @@ def extract_headings(doc):
         page_num = span["page"]
         bold = span["bold"]
 
-        # Skip empty or invalid heading texts like empty string, quotes, invisible characters, or single characters
+        
         if not text or text == '""' or text == "''" or text.strip('\u200b') == '' or len(text) == 1:
             continue
 

@@ -4,9 +4,10 @@
 The PDF Outline Extractor is a smart and efficient tool designed to extract structured outlines from PDF documents. It intelligently identifies and extracts the document's Title along with hierarchical headings (H1, H2, H3), providing a clean and organized JSON representation of the content structure. This tool is ideal for developers, researchers, and professionals who need to analyze or repurpose PDF content programmatically.
 
 ##  Key Features 
-- Accurate extraction of Titles and multi-level headings based on font size and style heuristics.
+- Accurate extraction of Titles and multi-level headings based on font size, boldness and style heuristics. 
 - Supports extraction of headings up to three levels deep (H1, H2, H3).
 - Outputs results in a well-structured JSON format for easy integration with other tools or workflows. 
+-  Also extracts headings from multilingual languages (hindi and japanese). 
 - Lightweight and fast, processing documents within seconds without relying on external models.
 - Fully offline and CPU-only operation, ensuring privacy and compatibility with AMD64 architectures.
 - Dockerized for seamless deployment and consistent runtime environments.
@@ -70,7 +71,7 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
  - Automated Document Outlining
 
 - Detects and extracts headings (H1, H2, H3) based on font size and boldness.
-- Creates a clean outline structure that mirrors the original document’s hierarchy.
+- Creates a clean outline structure that mirrors the original document’s hierarchy.  
 
  - Dynamic Title Extraction
 

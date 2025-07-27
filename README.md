@@ -21,6 +21,7 @@ The PDF Outline Extractor is a smart and efficient tool designed to extract stru
 
 ##  Project Directory Structure 
 
+```
 📁 Round 1A 
 │
 ├── 📁 input/
@@ -45,7 +46,7 @@ The PDF Outline Extractor is a smart and efficient tool designed to extract stru
 ├── requirements.txt
 └── schema.json 
 
-
+```
 ##  Installation & Usage
 
 ### Build the Docker Image

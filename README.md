@@ -31,6 +31,7 @@ The PDF Outline Extractor is a smart and efficient tool designed to extract stru
 │   ├── English.03.pdf
 │   ├── English.04.pdf
 │   └── Hindi.pdf
+|   |__ Japanese.pdf
 │
 ├── 📁 output/
 │   ├── .gitkeep
@@ -39,6 +40,7 @@ The PDF Outline Extractor is a smart and efficient tool designed to extract stru
 │   ├── English.03.json
 │   ├── English.04.json
 │   └── Hindi.json
+|   |__ Japanese.json
 │
 ├── Dockerfile
 ├── main.py
